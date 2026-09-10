@@ -34,7 +34,7 @@ the same 7.8 mm barrel OD as the supported Knurled Hub (KH) syringes, but have b
 by physical test-fit to NOT fit the current 3D-printed housing/retention mechanism. Neuros
 syringe support is planned for a future Neuroinjector release with an updated hardware build.
 
-### AI Assistant (Experimental)
+### AI Assistant
 The [`react-app`](/react-app) folder contains an experimental AI-powered assistant modeled
 after [ds-research-tool-test](https://github.com/asathyanesan/ds-research-tool-test). It's a
 Vite + React chat app that grounds its answers in this repo's own data (hardware/firmware
