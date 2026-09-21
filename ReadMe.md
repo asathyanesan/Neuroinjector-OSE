@@ -1,5 +1,7 @@
 # **UD Neuroinjector**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22871234.svg)](https://doi.org/10.5281/zenodo.22871234)
+
 ![](/readme_images/injector.png) 
 
 > [Arduino Uno Wiring Diagram - Tinkercad](https://www.tinkercad.com/things/jYT1CjaT22d-november-2024-injector-control?sharecode=C9nnUTwrhzWC7_K2SykUDTFZvW9YDyTTlg0h3D3HC3E)
