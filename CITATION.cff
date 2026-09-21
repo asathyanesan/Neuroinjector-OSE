@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "UD Neuroinjector Open Source Ecosystem"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: Raza
+    given-names: Mir Abbas
+    orcid: "https://orcid.org/0009-0002-9897-7372"
+    affiliation: "Department of Biology, University of Dayton"
+  - family-names: Downing
+    given-names: Reilly
+    affiliation: "Department of Electrical & Computer Engineering, University of Dayton"
+  - family-names: Beer
+    given-names: Owen
+    affiliation: "Department of Mechanical and Aerospace Engineering, University of Dayton"
+  - family-names: LaBelle
+    given-names: Megan
+    affiliation: "Department of Mechanical and Aerospace Engineering, University of Dayton"
+  - family-names: Madala
+    given-names: Sanjay
+    affiliation: "Department of Biology, University of Dayton"
+  - family-names: Schroeder
+    given-names: Kassidy
+    affiliation: "Department of Biology, University of Dayton"
+  - family-names: Kidambi
+    given-names: Krishna B.
+    orcid: "https://orcid.org/0000-0002-7266-3765"
+    affiliation: "Department of Mechanical and Aerospace Engineering, University of Dayton"
+  - family-names: Sathyanesan
+    given-names: Aaron
+    orcid: "https://orcid.org/0000-0002-9226-7831"
+    affiliation: "Department of Biology, University of Dayton"
+    email: asathyanesan1@udayton.edu
+repository-code: "https://github.com/asathyanesan/Neuroinjector-OSE"
+license: MIT
