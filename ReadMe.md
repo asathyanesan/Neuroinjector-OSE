@@ -7,6 +7,14 @@
 
 The UD Neuroinjector - a completely automated stereotaxic injector is constructed with 3D printed housings, a Nema 8 stepper, an  Arduino starter kit, and various hardware. A full parts list is available as a part of this package.
 
+### Citation
+
+If you use this project, please cite the `CITATION.cff` file included in this repository. The initial release is:
+
+> Raza, M. A., Downing, R., Beer, O., LaBelle, M., Madala, S., Schroeder, K., Kidambi, K. B., & Sathyanesan, A. (2026). *UD Neuroinjector Open Source Ecosystem* (Version 0.1.0) [Software]. https://github.com/asathyanesan/Neuroinjector-OSE
+
+Zenodo DOI: [10.5281/zenodo.22871234](https://doi.org/10.5281/zenodo.22871234)
+
 ### Purpose
 Stereotaxic injections of drugs or biologics into specific regions of the rodent brain are a very common procedure in modern neuroscience. Micro- or nanoliter injections must controlled precisely to avoid damage to brain tissue. Automated stereotaxic injectors are the ideal solution for this procedure, however, commercial injectors are very expensive (>4000 USD). We designed the UD Neuroinjector: an open-source automated stereotaxic injector using readily available, cost-efficient components and an Arduino microcontroller.
 
